@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on PIP Manager
+- 🔭 I’m currently working on PIP Manager
 - 🌱 I’m currently learning C++ and Python
 
 
