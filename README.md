@@ -12,4 +12,4 @@ Language Stats             |  My Stats
 
 ### About me
 
-I am still in High School, 11th grade. I am 16 years old. I have intrest in Computer Science and Political Science so I honestly have no idea what I will be doing out of school XD. If you want me to contribute in any python software just email me at w.blaze05@gmail.com
+I am still in High School, 12th grade. I am 17 years old. I have intrest in Computer Science and Political Science so I honestly have no idea what I will be doing out of school XD. If you want me to contribute in any python software just email me at w.blaze05@gmail.com
