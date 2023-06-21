@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on PIP Manager
-- 🌱 I’m currently learning C++ and Python
+- 🌱 I’m currently learning Python
 
 
 Language Stats             |  My Stats
@@ -12,4 +12,4 @@ Language Stats             |  My Stats
 
 ### About me
 
-I am still in High School, 12th grade. I am 17 years old. I have intrest in Computer Science and Political Science so I honestly have no idea what I will be doing out of school XD. If you want me to contribute in any python software just email me at w.blaze05@gmail.com
+I am a High School Graduate, I am 18 years old. I have intrest in Computer Science and Political Science so I will be attending PVCC and will be in the course for Information Systems Technology, Cybersecurity Specialization. If you want me to contribute in any python software just email me at w.blaze05@gmail.com
