@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on PIP Manager
+- 🔭 I’m currently working on PIP Manager and Orbis Twitter for Politics & War
 - 🌱 I’m currently learning Python
 
 
