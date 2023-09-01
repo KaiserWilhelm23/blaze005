@@ -12,4 +12,4 @@ Language Stats             |  My Stats
 
 ### About me
 
-I am a High School Graduate, I am 18 years old. I have intrest in Computer Science and Political Science so I will be attending PVCC and will be in the course for Associates Degree of Science. If you want me to contribute in any python software just text me on Discord @ kaiser_wilhelm23
+I am a High School Graduate, I am 18 years old. I have intrests in Computer Science and Political Science so I will be attending PVCC and will be in the courses for Associates Degree of Science. If you want me to contribute in any python software just text me on Discord @ kaiser_wilhelm23
